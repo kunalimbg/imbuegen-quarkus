@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Objects;
 
 @Entity
-@Table(name = "film", schema = "sakila")
+@Table(name = "film", schema = "kunal")
 public class Film {
     
     public Film() {}
